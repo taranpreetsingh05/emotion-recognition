@@ -3,14 +3,7 @@
 
 ---
 
-## Team Members
-| Roll No | Name             | Reg. No     |
-|---------|------------------|-------------|
-| 64      | Dev              | 240911736   |
-| 23      | Taranpreet Singh | 240911294   |
-| 22      | Suhani           | 240911286   |
-| 32      | Keshav Krishna   | 240911352   |
-| 34      | Naman Kaushik    | 240911366   |
+
 
 ---
 
